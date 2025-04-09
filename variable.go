@@ -8,3 +8,8 @@ func main() {
 
 	fmt.Println("ini adalah nama =", name)
 	fmt.Println("ini adalah nama =", age)
+
+
+
+
+
