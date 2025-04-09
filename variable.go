@@ -1,6 +1,6 @@
 package main
 
-import "fmt" 
+import "fmt"
 
 func main() {
 	var name string = "najalia"
@@ -9,6 +9,4 @@ func main() {
 	fmt.Println("ini adalah nama =", name)
 	fmt.Println("ini adalah nama =", age)
 
-
-
-
+}
